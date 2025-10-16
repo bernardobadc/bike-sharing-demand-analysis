@@ -126,7 +126,11 @@ The HGB model was chosen because it combines:
 ### 🧑‍💻 Author
 
 **Bernardo Costa**
+
 Data Analyst & Data Scientist in graduation
+
 📍 Brazil
+
 💼 LinkedIn -> https://www.linkedin.com/in/bernardobadc/
+
 📊 GitHub -> https://github.com/bernardobadc
